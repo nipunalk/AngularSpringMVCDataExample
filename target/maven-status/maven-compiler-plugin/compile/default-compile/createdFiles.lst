@@ -1,0 +1,7 @@
+nipuna\controller\TestController.class
+nipuna\resource\AppInitializer.class
+nipuna\service\UserServiceImpl.class
+nipuna\model\User.class
+nipuna\service\UserService.class
+nipuna\controller\HelloWorldRestController.class
+nipuna\resource\AppConfig.class
