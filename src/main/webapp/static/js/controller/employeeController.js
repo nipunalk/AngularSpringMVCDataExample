@@ -1,6 +1,6 @@
 'use strict';
 
-App.controller('employeeService', ['$scope', 'employeeService', function($scope, empService) {
+App.controller('empService', ['$scope', 'empService', function($scope, empService) {
           var empObj = this;
           empObj.emp={id:null,username:'',address:'',email:''};
           empObj.empls=[];
